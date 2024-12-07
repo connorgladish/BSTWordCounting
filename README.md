@@ -16,8 +16,8 @@
 # Compilation Instructions:
 - To compile: `make`
 - To run: `./driver`
-# To clean object files and executables: `make clean`
-- Test:
+## To clean object files and executables: `make clean`
+# Test:
 - The program allows interactive testing through a menu. A sample `test.dat` file was used to test:
 - Word insertion and updates with set.
 - Retrieval of values with find.
